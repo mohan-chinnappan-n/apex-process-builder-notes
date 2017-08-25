@@ -309,7 +309,7 @@ Process Builder Process Criteria:
 ![pb-criteria.png](./img/pb-criteria.png)
 
 
-Process Builder Process Criteria:
+Process Builder Action :
 
 ![PB-Action.png](./img/PB-Action.png)
 
